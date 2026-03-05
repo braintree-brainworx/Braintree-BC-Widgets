@@ -1,0 +1,31 @@
+title: Braintree BC Widgets
+description: Documentation for Braintree BigCommerce Widgets
+baseurl: "/Braintree-BC-Widgets"
+url: "https://braintree-by-vox.github.io"
+
+theme: minima
+
+# Navigation
+header_pages:
+  - docs/getting-started.md
+  - docs/configuration.md
+  - docs/widgets.md
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .bundle
+  - .github
