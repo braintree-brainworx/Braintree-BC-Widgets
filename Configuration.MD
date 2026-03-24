@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: default
 title: Vendor Reconciliation for Business Central
 description: Support and documentation for Braintree's Vendor Reconciliation extension to Microsoft Dynamics 365 Business Central
---- -->
+---
 
 # Braintree Widgets Configuration
 Braintree Widgets come pre-installed colour definitions, templates and page configurations, so you can get going as fast as possible. You have the option to modify any of these to suit your own tastes and requirements.
