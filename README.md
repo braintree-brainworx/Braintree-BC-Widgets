@@ -18,6 +18,6 @@ Role Centres in Microsoft Dynamics 365 Business Central are great, but they have
 
 ## [Configuration](Configuration.MD)
 
-## [Creating your own Widget Page]()
+## [Creating your own Widget Page](PageSetups.MD)
 
-## [Running Widgets as a Role Centre]()
+<!-- ## [Running Widgets as a Role Centre]() --> -->
