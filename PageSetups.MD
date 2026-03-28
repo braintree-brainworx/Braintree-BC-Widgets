@@ -57,5 +57,11 @@ You can edit the remaining fields as follows:
 |Button Width|Width in points of the buttons on the page |
 |Info Area Height|Height in points of the information area of each button|
 
+## Adding tasks to the page
+For each button or section heading that you want to display on the page, create a line on the 'Activity Setup' section of the page. These can be grouped into sections. There are a few ways to do this:
 
-w1
+- Create Widgets: sets up a group of buttons based on a selected table and field.
+- Create Ageing Widgets: sets up a group of buttons based on age, for analysing data based on dates
+- Manual Entry
+
+### Adding a section heading
