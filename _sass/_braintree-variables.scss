@@ -25,7 +25,8 @@ $hr-border-color: #eff0f1 !default;
 
 // Braintree
 $braintree-font:#328278 !default;
-$braintree-background: #e9f7de !default;
+// $braintree-background: #e9f7de !default;
+$braintree-background:linear-gradient(to right, #d7f8ef 0%, #e9f7de 100%)
 // #e9f7de
 $braintree-navbar: lightcyan !default;
 // $braintree-contact: #ffffff !default;
