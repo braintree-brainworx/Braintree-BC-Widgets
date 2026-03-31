@@ -65,3 +65,36 @@ For each button or section heading that you want to display on the page, create 
 - Manual Entry
 
 ### Adding a section heading
+A section heading is used to split the buttons into logical groups, with a title.
+On an empty line in the subpage, capture the line as follows:
+
+|**Field** |**Value**|
+|---|---|
+|Code|Enter a code to identify the line|
+|Button Text |Enter a description which will be displayed on the button when rendering on the screen |
+|Object Type|Select the type of object that will run when the button is clicked. The default type is Page.|
+|Object ID|Select the number of the object that will run|
+|Table ID|If the page is built on a table, the table id will be automatically populated|
+|Page Setup Definition|Select the page layout definition from the drop down list|
+|Button placement |Select Header|
+|Background Style|Click on ... to open the style helper|
+|Foreground Style|Click on ... to open the style helper|
+|InfoArea BackStyle|Click on ... to open the style helper|
+
+
+### Adding buttons
+For each button that you would like to display on the screen, create a line on the subpage, beneath the section heading.
+
+|**Field** |**Value**|
+|---|---|
+|Code|Enter a code to identify the line|
+|Button Text |Enter a description which will be displayed on the button when rendering on the screen |
+|Object Type|Select the type of object that will run when the button is clicked. The default type is Page.|
+|Object ID|Select the number of the object that will run|
+|Table ID|If the page is built on a table, the table id will be automatically populated|
+|Page Setup Definition|Select the page layout definition from the drop down list|
+|Button placement |Select Header|
+|Background Style|Click on ... to open the style helper|
+|Foreground Style|Click on ... to open the style helper|
+|InfoArea BackStyle|Click on ... to open the style helper|
+
