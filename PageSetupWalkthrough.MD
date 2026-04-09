@@ -1,13 +1,4 @@
-# Setting up pages
-
-BC Widgets allows you to build personalised pages which resemble a standard Microsoft Dynamics 365 Business Central role centre. You can use these to
-- simplify the user experience by removing the clutter of unneeded functions
-- build personalised 'role centres' without the need to rely on a developer
-- build dashboards to display key performance indicators.
-
-The app comes with a few prebuilt pages, giving access to each major module of Microsoft Dynamics 365 Business Central.
-
-This section provides instructions on how to build a page to be displayed as a role centre, or to run a widget page.
+# Walkthrough: Set up a Widget page to show customers by posting group
 
 ## Create a new page
 From the role centre, select 'Page Setups':
@@ -96,12 +87,6 @@ For each button that you would like to display on the screen, create a line on t
 |Background Style|Click on ... to open the style helper|
 |Foreground Style|Click on ... to open the style helper|
 |InfoArea BackStyle|Click on ... to open the style helper|
-
-### Creating a set of Widgets from data
-You can use the system to generate a set of Widget buttons, based on underlying data.
-Start by setting up a section heading [Adding a section heading](#adding-a-section-heading).
-On the section heading, set the page number. For example, to create Widgets for customers, choose page 22 (Customer List).
-Click on the button, 
 
 The below example shows the button setups for the Finance page:
 
